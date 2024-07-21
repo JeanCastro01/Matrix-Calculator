@@ -2,7 +2,7 @@
 
 # Matrix Calculator
 
-Welcome to the Matrix Calculator! This project allows users to perform various matrix operations, including addition, subtraction, multiplication, and scalar operations. The calculator reads matrices from text files and outputs results to a file.
+This project allows users to perform various matrix operations, including addition, subtraction, multiplication, and scalar operations. The calculator reads matrices from text files and outputs results to a file.
 
 ## Features
 
