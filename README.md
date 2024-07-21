@@ -120,14 +120,4 @@ For example, a 2x2 matrix would be stored as:
 
 Feel free to submit issues or pull requests. Contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to customize the README with any additional information or specific details related to your project.
